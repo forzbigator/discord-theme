@@ -1,3 +1,10 @@
+/**
+ * @name Bruh
+ * @author Vladimir Putin#0581
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness. Dark theme is required.
+
+*/
 :root {
     --backgroundDark: rgb(24, 28, 37);
     --backgroundDarker: rgb(20, 23, 31);
@@ -2141,7 +2148,19 @@
   .wrapper-2Gsate, .contentWrapper-SvZHNd, .wrapper-1-Fsb8 {
     background: var(--backgroundDark);
   }
+.background-1QDuV2 {
+    background-color: #11141A;
+}
+.fieldList-21DyL8 {
+    background-color: #181C25;
+}
 
-.root-217Brm {
-    background-color: #0C0E13;
+.container-3w7J-x{
+    background-color: #11141A;
+}
+.cozy-12kSNU {
+    background-color: #161921; 
+}
+.wrapper-3vR61M{
+    background-color: #161921;   
 }
